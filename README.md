@@ -52,7 +52,9 @@ A streamlined onboarding experience designed to welcome users into Embark.
 
 <!-- Embed or link your product walkthrough video here -->
 
-[Watch the Embark Demo](YOUR_VIDEO_LINK_HERE)
+
+
+[Watch the Embark Demo](https://youtube.com/shorts/9e4ga3SUCmk?feature=share)
 
 ---
 
